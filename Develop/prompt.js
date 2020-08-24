@@ -3,22 +3,22 @@ module.exports={
     manager: [
         {
             type: 'input',
-            name: 'title',
+            name: 'managerName',
             message: 'What is your Manager Name?'
         },
         {
             type: 'input',
-            name: 'id',
+            name: 'managerId',
             message: 'What is your manager Id?'
         },
         {
             type: 'input',
-            name: 'email',
+            name: 'managerEmail',
             message: 'What is your Manager Email'
         },
         {
             type: 'input',
-            name: 'officeNumber',
+            name: 'managerOfficeNumber',
             message: 'What is your Manager Office number'
         },
     ],
@@ -30,7 +30,7 @@ module.exports={
             choices: [
                 'Engineer',
                 'Intern',
-                'done',
+                'Done',
             ]
         },
     ],
@@ -47,7 +47,7 @@ module.exports={
             },
             {
                 type: 'input',
-                name: 'engineeremail',
+                name: 'engineerEmail',
                 message: 'What is your Enginner Email'
             },
             {
@@ -59,7 +59,7 @@ module.exports={
     intern : [
         {
             type: 'input',
-            name: 'interName',
+            name: 'internName',
             message: 'What is your Intern Name'
         },
         {
