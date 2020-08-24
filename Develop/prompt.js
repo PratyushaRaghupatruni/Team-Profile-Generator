@@ -22,27 +22,27 @@ module.exports={
             message: 'What is your Manager Office number'
         },
     ],
-  employeeChoice : [
+  teamChoice : [
         {
             type: 'list',
-            name: "teamMember",
+            name: 'employeeChoice',
             message: 'Which type of team member would you like to add',
             choices: [
                 'Engineer',
                 'Intern',
-                'Done',
+                'Done'
             ]
         },
     ],
         engineer : [
             {
                 type: 'input',
-                name: 'enginnerName',
-                message: 'What is your Enginner Name'
+                name: 'engineerName',
+                message: 'What is your Engineer Name'
             },
             {
                 type: 'input',
-                name: 'enginnerId',
+                name: 'engineerId',
                 message: 'What is your Engineer Id'
             },
             {
@@ -52,7 +52,7 @@ module.exports={
             },
             {
                 type: 'input',
-                name: 'enginnerGithub',
+                name: 'engineerGithub',
                 message: 'What is your Enginner Github Username'
             },
         ],
