@@ -21,8 +21,8 @@ module.exports={
             name: 'officeNumber',
             message: 'What is your Manager Office number'
         },
-    ]
-  employeeChoice:[
+    ],
+  employeeChoice : [
         {
             type: 'list',
             name: "teamMember",
@@ -55,7 +55,7 @@ module.exports={
                 name: 'enginnerGithub',
                 message: 'What is your Enginner Github Username'
             },
-        ]
+        ],
     intern : [
         {
             type: 'input',
