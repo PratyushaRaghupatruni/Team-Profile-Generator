@@ -25,10 +25,14 @@ so that I have quick access to emails and GitHub profiles
 
 # Installation 
 
-In the `Develop` folder, there is a `package.json`, so make sure to 
+  * In the `Develop` folder, there is a `package.json`, so make sure to 
 <pre><code>npm install</code></pre>
 
-🎗 Remember, you can run the tests at any time with `npm run test`
+  * Run the tests at any time with 
+ <pre><code>npm run test</code></pre>
+   
+  * The Application will be invoked with the following Command
+  <pre><code>node app</code></app>
 
 
 ### User input
