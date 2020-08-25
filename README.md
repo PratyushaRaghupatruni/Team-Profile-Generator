@@ -1,4 +1,6 @@
 # Team-Profile-Generator
+
+![github license](https://img.shields.io/badge/license-MIT-green)
 # Unit 10 OOP Homework: Template Engine - Employee Summary
  In this homework assignment, The challenge is to build a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person. Since testing is a key piece in making code maintainable,It should be ensured that all unit tests pass.
 
