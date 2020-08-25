@@ -32,7 +32,7 @@ so that I have quick access to emails and GitHub profiles
  <pre><code>npm run test</code></pre>
    
   * The Application will be invoked with the following Command
-  <pre><code>node app</code></app>
+  <pre><code>node app</code></pre>
 
 
 ### User input
